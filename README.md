@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PT Astra Honda Motor
+- 🔭 I’m currently Freelancer
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about me
 - 📫 How to reach me: instagram/aldiarsyah81
